@@ -40,7 +40,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 |     Lecture2      |      | Word Vector Representations:word2vec     | Word2Vec词向量表示   |         |
 |     Lecture3      |      | Advanced Word Vector Representations     | 高级词向量表示         |         |
 |     Lecture4      |      | Word Window Classification and Neural Networks | 词窗分类与神经网络       |         |
-|     Lecture5      |      | Backpropagation                          | 反向传播            |         |
+|     Lecture5      |      | Backpropagation                          | 反向传播            |  黄子寅    |
 |     Lecture6      |      | Dependency Parsing                       | 依存句法分析          |         |
 | **Assignment #1** |      |                                          |                 |   纪焘    |
 |     Lecture7      |      | Introduction to TensorFlow               | 介绍TensorFlow    |         |
@@ -55,7 +55,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 |     Lecture14     |      | Convolutional Neural Networks            | CNN             |         |
 |     Lecture15     |      | Tree Recursive Neural Networks and Constituency Parsing | 树RNN与短语句法分析     |         |
 |     Lecture16     |      | Coreference Resolution                   | 共指消解            |         |
-|     Lecture17     |      | Dynamic Neural Networks for Question Answering | 动态神经网络QA        |         |
+|     Lecture17     |      | Dynamic Neural Networks for Question Answering | 动态神经网络QA        |   黄子寅   |
 |     Lecture18     |      | Issues in NLP and Possible Architectures for NLP | NLP中的问题与可能的解决框架 |         |
 |     Lecture19     |      | Tackling the Limits of Deep Learning for NLP | 聚焦深度学习在NLP上的局限性 |         |
 | **Assignment #4** |      |                                          |                 |   纪焘    |
