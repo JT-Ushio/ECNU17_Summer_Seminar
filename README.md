@@ -42,16 +42,16 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 |     Lecture4      |      | Word Window Classification and Neural Networks | 词窗分类与神经网络       |         |
 |     Lecture5      |      | Backpropagation                          | 反向传播            |         |
 |     Lecture6      |      | Dependency Parsing                       | 依存句法分析          |         |
-|   Assignment #1   |      |                                          |                 |   纪焘    |
+| **Assignment #1** |      |                                          |                 |   纪焘    |
 |     Lecture7      |      | Introduction to TensorFlow               | 介绍TensorFlow    |         |
 |     Lecture8      |      | Recurrent Neural Networks and Language Models | RNN与语言模型        |         |
 |     Lecture9      |      | Machine translation and advanced recurrent LSTMs and GRUs | 机器翻译与高级RNN      |         |
 |     Lecture10     |      | Midterm Review                           | 中期回顾            |   不讲    |
-|   Assignment #2   |      |                                          |                 |   纪焘    |
+| **Assignment #2** |      |                                          |                 |   纪焘    |
 |     Lecture11     |      | Neural Machine Translation and Models with Attention | NMT与注意力模型       |         |
 |     Lecture12     |      | Gated recurrent units and further topics in NMT | GRU与NMT进阶       |         |
 |     Lecture13     |      | End-to-end models for Speech Processing  | 端到端语音处理         |         |
-|   Assignment #3   |      |                                          |                 |   纪焘    |
+| **Assignment #3** |      |                                          |                 |   纪焘    |
 |     Lecture14     |      | Convolutional Neural Networks            | CNN             |         |
 |     Lecture15     |      | Tree Recursive Neural Networks and Constituency Parsing | 树RNN与短语句法分析     |         |
 |     Lecture16     |      | Coreference Resolution                   | 共指消解            |         |
