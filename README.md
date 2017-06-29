@@ -46,7 +46,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 |      Lecture7      |      | Introduction to TensorFlow               | 介绍TensorFlow    |         |
 |      Lecture8      |      | Recurrent Neural Networks and Language Models | RNN与语言模型        |         |
 |      Lecture9      |      | Machine translation and advanced recurrent LSTMs and GRUs | 机器翻译与高级RNN      |         |
-|     Lecture10      |      | Midterm Review                           | 中期回顾            |         |
+|     Lecture10      |      | Midterm Review                           | 中期回顾            |   不讲    |
 | **Assignment #2 ** |      |                                          |                 |   纪焘    |
 |     Lecture11      |      | Neural Machine Translation and Models with Attention | NMT与注意力模型       |         |
 |     Lecture12      |      | Gated recurrent units and further topics in NMT | GRU与NMT进阶       |         |
