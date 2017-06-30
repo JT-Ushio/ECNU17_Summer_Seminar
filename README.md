@@ -40,7 +40,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 |     Lecture2      |      | Word Vector Representations:word2vec     | Word2Vec词向量表示   |         |
 |     Lecture3      |      | Advanced Word Vector Representations     | 高级词向量表示         |         |
 |     Lecture4      |      | Word Window Classification and Neural Networks | 词窗分类与神经网络       |         |
-|     Lecture5      |      | Backpropagation                          | 反向传播            |  黄子寅    |
+|     Lecture5      |      | Backpropagation                          | 反向传播            |   黄子寅   |
 |     Lecture6      |      | Dependency Parsing                       | 依存句法分析          |         |
 | **Assignment #1** |      |                                          |                 |   纪焘    |
 |     Lecture7      |      | Introduction to TensorFlow               | 介绍TensorFlow    |         |
@@ -48,14 +48,14 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 |     Lecture9      |      | Machine translation and advanced recurrent LSTMs and GRUs | 机器翻译与高级RNN      |         |
 |     Lecture10     |      | Midterm Review                           | 中期回顾            |   不讲    |
 | **Assignment #2** |      |                                          |                 |   纪焘    |
-|     Lecture11     |      | Neural Machine Translation and Models with Attention | NMT与注意力模型       |  黄子寅    |
+|     Lecture11     |      | Neural Machine Translation and Models with Attention | NMT与注意力模型       |   黄子寅   |
 |     Lecture12     |      | Gated recurrent units and further topics in NMT | GRU与NMT进阶       |         |
 |     Lecture13     |      | End-to-end models for Speech Processing  | 端到端语音处理         |         |
 | **Assignment #3** |      |                                          |                 |   纪焘    |
 |     Lecture14     |      | Convolutional Neural Networks            | CNN             |         |
 |     Lecture15     |      | Tree Recursive Neural Networks and Constituency Parsing | 树RNN与短语句法分析     |         |
 |     Lecture16     |      | Coreference Resolution                   | 共指消解            |         |
-|     Lecture17     |      | Dynamic Neural Networks for Question Answering | 动态神经网络QA        |  黄子寅    |
+|     Lecture17     |      | Dynamic Neural Networks for Question Answering | 动态神经网络QA        |   黄子寅   |
 |     Lecture18     |      | Issues in NLP and Possible Architectures for NLP | NLP中的问题与可能的解决框架 |         |
 |     Lecture19     |      | Tackling the Limits of Deep Learning for NLP | 聚焦深度学习在NLP上的局限性 |         |
 | **Assignment #4** |      |                                          |                 |   纪焘    |
