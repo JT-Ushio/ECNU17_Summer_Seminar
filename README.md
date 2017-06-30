@@ -38,13 +38,13 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 | :---------------: | :--: | :--------------------------------------- | :-------------- | :-----: |
 |     Lecture1      |      | Introduction to NLP and Deep Learning    | 介绍自然语言和深度学习     |         |
 |     Lecture2      |      | Word Vector Representations:word2vec     | Word2Vec词向量表示   |         |
-|     Lecture3      |      | Advanced Word Vector Representations     | 高级词向量表示         |  钟鸣  |
+|     Lecture3      |      | Advanced Word Vector Representations     | 高级词向量表示         |       |
 |     Lecture4      |      | Word Window Classification and Neural Networks | 词窗分类与神经网络       |         |
 |     Lecture5      |      | Backpropagation                          | 反向传播            |   黄子寅   |
 |     Lecture6      |      | Dependency Parsing                       | 依存句法分析          |         |
 | **Assignment #1** |      |                                          |                 |   纪焘    |
 |     Lecture7      |      | Introduction to TensorFlow               | 介绍TensorFlow    |         |
-|     Lecture8      |      | Recurrent Neural Networks and Language Models | RNN与语言模型        |         |
+|     Lecture8      |      | Recurrent Neural Networks and Language Models | RNN与语言模型        |   钟鸣   |
 |     Lecture9      |      | Machine translation and advanced recurrent LSTMs and GRUs | 机器翻译与高级RNN      |  钟鸣  |
 |     Lecture10     |      | Midterm Review                           | 中期回顾            |   不讲    |
 | **Assignment #2** |      |                                          |                 |   纪焘    |
