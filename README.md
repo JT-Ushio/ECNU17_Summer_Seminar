@@ -15,7 +15,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 
 *郑淇（7月15日之后、因为实习所以尽量少讲）*
 
-*韦阳（远程参与）*
+*韦阳、付志超（远程参与）*
 
 *焦乙竹（旁听）*
 
