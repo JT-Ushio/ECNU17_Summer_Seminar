@@ -45,7 +45,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 |     Lecture3      | 7.8  | Advanced Word Vector Representations     | 高级词向量表示         |   杜雨沛   |
 |     Lecture4      | 7.10 | Word Window Classification and Neural Networks | 词窗分类与神经网络       |   杜雨沛   |
 |     Lecture5      | 7.12 | Backpropagation                          | 反向传播            |   黄子寅   |
-|     Lecture6      | 7.15 | Dependency Parsing                       | 依存句法分析          |   姚岳坤   |
+|     Lecture6      | 7.15 | Dependency Parsing                       | 依存句法分析          |   姚岳坤   |
 | **Assignment #1** | 7.17 |                                          |                 |   纪焘    |
 |     Lecture7      | 7.19 | Introduction to TensorFlow               | 介绍TensorFlow    |         |
 |     Lecture8      | 7.22 | Recurrent Neural Networks and Language Models | RNN与语言模型        |   钟鸣    |
@@ -54,7 +54,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 | **Assignment #2** | 7.26 |                                          |                 |   纪焘    |
 |     Lecture11     | 7.29 | Neural Machine Translation and Models with Attention | NMT与注意力模型       |   黄子寅   |
 |     Lecture12     | 7.31 | Gated recurrent units and further topics in NMT | GRU与NMT进阶       |   王江舟   |
-|     Lecture13     | 8.2  | End-to-end models for Speech Processing  | 端到端语音处理         |   姚岳坤   |
+|     Lecture13     | 8.2  | End-to-end models for Speech Processing  | 端到端语音处理         |   姚岳坤   |
 | **Assignment #3** | 8.5  |                                          |                 |   纪焘    |
 |     Lecture14     | 8.7  | Convolutional Neural Networks            | CNN             |   王江舟   |
 |     Lecture15     | 8.9  | Tree Recursive Neural Networks and Constituency Parsing | 树RNN与短语句法分析     |   钟鸣    |
