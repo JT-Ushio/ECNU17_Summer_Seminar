@@ -42,8 +42,8 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 | :---------------: | :--: | :--------------------------------------- | :-------------- | :-----: |
 |     Lecture1      | 7.3  | Introduction to NLP and Deep Learning    | 介绍自然语言和深度学习     |   王江舟   |
 |     Lecture2      | 7.5  | Word Vector Representations:word2vec     | Word2Vec词向量表示   |   纪焘    |
-|     Lecture3      | 7.8  | Advanced Word Vector Representations     | 高级词向量表示         |         |
-|     Lecture4      | 7.10 | Word Window Classification and Neural Networks | 词窗分类与神经网络       |         |
+|     Lecture3      | 7.8  | Advanced Word Vector Representations     | 高级词向量表示         |   杜雨沛   |
+|     Lecture4      | 7.10 | Word Window Classification and Neural Networks | 词窗分类与神经网络       |   杜雨沛   |
 |     Lecture5      | 7.12 | Backpropagation                          | 反向传播            |   黄子寅   |
 |     Lecture6      | 7.15 | Dependency Parsing                       | 依存句法分析          |         |
 | **Assignment #1** | 7.17 |                                          |                 |   纪焘    |
@@ -58,7 +58,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 | **Assignment #3** | 8.5  |                                          |                 |   纪焘    |
 |     Lecture14     | 8.7  | Convolutional Neural Networks            | CNN             |   王江舟   |
 |     Lecture15     | 8.9  | Tree Recursive Neural Networks and Constituency Parsing | 树RNN与短语句法分析     |   钟鸣    |
-|     Lecture16     | 8.12 | Coreference Resolution                   | 共指消解            |         |
+|     Lecture16     | 8.12 | Coreference Resolution                   | 共指消解            |   杜雨沛   |
 |     Lecture17     | 8.14 | Dynamic Neural Networks for Question Answering | 动态神经网络QA        |   黄子寅   |
 |     Lecture18     | 8.16 | Issues in NLP and Possible Architectures for NLP | NLP中的问题与可能的解决框架 |         |
 |     Lecture19     | 8.19 | Tackling the Limits of Deep Learning for NLP | 聚焦深度学习在NLP上的局限性 |         |
