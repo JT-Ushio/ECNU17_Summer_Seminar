@@ -5,9 +5,11 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 
 ## Seminar Participants
 
-纪焘、黄子寅、杜雨沛、王江舟
+纪焘、黄子寅、杜雨沛
 
-钟鸣（7月4日~7月16日回家）
+*王江舟（7月17日~7月23日回家）*
+
+*钟鸣（7月4日~7月16日回家）*
 
 *姚岳坤（7月10日之后）*
 
@@ -38,7 +40,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 
 |       Event       | Date | Description                              | 描述              | Speaker |
 | :---------------: | :--: | :--------------------------------------- | :-------------- | :-----: |
-|     Lecture1      | 7.3  | Introduction to NLP and Deep Learning    | 介绍自然语言和深度学习     |         |
+|     Lecture1      | 7.3  | Introduction to NLP and Deep Learning    | 介绍自然语言和深度学习     |   王江舟   |
 |     Lecture2      | 7.5  | Word Vector Representations:word2vec     | Word2Vec词向量表示   |   纪焘    |
 |     Lecture3      | 7.8  | Advanced Word Vector Representations     | 高级词向量表示         |         |
 |     Lecture4      | 7.10 | Word Window Classification and Neural Networks | 词窗分类与神经网络       |         |
@@ -51,10 +53,10 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 |     Lecture10     |      | Midterm Review                           | 中期回顾            |   不讲    |
 | **Assignment #2** | 7.26 |                                          |                 |   纪焘    |
 |     Lecture11     | 7.29 | Neural Machine Translation and Models with Attention | NMT与注意力模型       |   黄子寅   |
-|     Lecture12     | 7.31 | Gated recurrent units and further topics in NMT | GRU与NMT进阶       |         |
+|     Lecture12     | 7.31 | Gated recurrent units and further topics in NMT | GRU与NMT进阶       |   王江舟   |
 |     Lecture13     | 8.2  | End-to-end models for Speech Processing  | 端到端语音处理         |         |
 | **Assignment #3** | 8.5  |                                          |                 |   纪焘    |
-|     Lecture14     | 8.7  | Convolutional Neural Networks            | CNN             |         |
+|     Lecture14     | 8.7  | Convolutional Neural Networks            | CNN             |   王江舟   |
 |     Lecture15     | 8.9  | Tree Recursive Neural Networks and Constituency Parsing | 树RNN与短语句法分析     |   钟鸣    |
 |     Lecture16     | 8.12 | Coreference Resolution                   | 共指消解            |         |
 |     Lecture17     | 8.14 | Dynamic Neural Networks for Question Answering | 动态神经网络QA        |   黄子寅   |
