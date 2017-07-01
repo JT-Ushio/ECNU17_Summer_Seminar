@@ -60,7 +60,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 |     Lecture15     | 8.9  | Tree Recursive Neural Networks and Constituency Parsing | 树RNN与短语句法分析     |   钟鸣    |
 |     Lecture16     | 8.12 | Coreference Resolution                   | 共指消解            |   杜雨沛   |
 |     Lecture17     | 8.14 | Dynamic Neural Networks for Question Answering | 动态神经网络QA        |   黄子寅   |
-|     Lecture18     | 8.16 | Issues in NLP and Possible Architectures for NLP | NLP中的问题与可能的解决框架 |  韦阳  |
+|     Lecture18     | 8.16 | Issues in NLP and Possible Architectures for NLP | NLP中的问题与可能的解决框架 | 韦阳 |
 |     Lecture19     | 8.19 | Tackling the Limits of Deep Learning for NLP | 聚焦深度学习在NLP上的局限性 |         |
 | **Assignment #4** | 8.21 |                                          |                 |   纪焘    |
 
