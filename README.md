@@ -7,17 +7,15 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 
 纪焘、黄子寅、杜雨沛
 
-*王江舟（7月17日~7月23日回家）*
-
 *钟鸣（7月4日~7月16日回家）*
 
 *姚岳坤（7月10日之后）*
 
 *郑淇（7月15日之后、因为实习所以尽量少讲）*
 
-*韦阳、付志超（远程参与）*
+*[韦阳](https://github.com/godweiyang)、付志超（远程参与）*
 
-*焦乙竹（旁听）*
+*焦乙竹、王江舟（旁听）*
 
 
 
@@ -42,8 +40,8 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 | :---------------: | :----: | :--------------------------------------- | :--------------- | :--------------------------------------: |
 |     Lecture1      | 7.3 一  | Introduction to NLP and Deep Learning    | 介绍自然语言和深度学习      |                   王江舟                    |
 |     Lecture2      | 7.5 三  | Word Vector Representations:word2vec     | Word2Vec词向量表示    | [纪焘](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Lecture2) |
-|     Lecture3      | 7.8 六  | Advanced Word Vector Representations     | 高级词向量表示          |                   杜雨沛                    |
-|     Lecture4      | 7.10 一 | Word Window Classification and Neural Networks | 词窗分类与神经网络        |                   杜雨沛                    |
+|     Lecture3      | 7.8 六  | Advanced Word Vector Representations     | 高级词向量表示          | [杜雨沛](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Lecture3) |
+|     Lecture4      | 7.10 一 | Word Window Classification and Neural Networks | 词窗分类与神经网络        | [杜雨沛](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Lecture4) |
 |     Lecture5      | 7.12 三 | Backpropagation                          | 反向传播             |                   黄子寅                    |
 |     Lecture6      | 7.15 六 | Dependency Parsing                       | 依存句法分析           |                   姚岳坤                    |
 | **Assignment #1** | 7.15 六 |                                          |                  |                    纪焘                    |
@@ -53,14 +51,14 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 |   ~~Lecture10~~   |        | ~~Midterm Review~~                       | ~~中期回顾~~         |                                          |
 |     Lecture11     | 7.22 六 | Neural Machine Translation and Models with Attention | NMT与注意力模型        |                   黄子寅                    |
 | **Assignment #2** | 7.22 六 |                                          |                  |                    纪焘                    |
-|     Lecture12     | 7.24 一 | Gated recurrent units and further topics in NMT | GRU与NMT进阶        |                   王江舟                    |
+|     Lecture12     | 7.24 一 | Gated recurrent units and further topics in NMT | GRU与NMT进阶        |                    待定                    |
 |     Lecture13     | 7.26 三 | End-to-end models for Speech Processing  | 端到端语音处理          |                   姚岳坤                    |
-|     Lecture14     | 7.29 六 | Convolutional Neural Networks            | CNN              |                   王江舟                    |
+|     Lecture14     | 7.29 六 | Convolutional Neural Networks            | CNN              |                    纪焘                    |
 | **Assignment #3** | 7.29 六 |                                          |                  |                    纪焘                    |
 |     Lecture15     | 7.31 一 | Tree Recursive Neural Networks and Constituency Parsing | 树RNN与短语句法分析      |                    钟鸣                    |
 |     Lecture16     | 8.2 三  | Coreference Resolution                   | 共指消解             |                   杜雨沛                    |
 |     Lecture17     | 8.5 六  | Dynamic Neural Networks for Question Answering | 动态神经网络QA         |                   黄子寅                    |
-|     Lecture18     | 8.7 一  | Issues in NLP and Possible Architectures for NLP | NLP中的问题与可能的解决框架  |                    [韦阳](https://github.com/godweiyang)                    |
+|     Lecture18     | 8.7 一  | Issues in NLP and Possible Architectures for NLP | NLP中的问题与可能的解决框架  |                    韦阳                    |
 |     Lecture19     | 8.9 三  | Tackling the Limits of Deep Learning for NLP | 聚焦深度学习在NLP上的局限性  |                    郑淇                    |
 | **Assignment #4** | 8.12 六 |                                          |                  |                    纪焘                    |
 
