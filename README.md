@@ -42,7 +42,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 |     Lecture2      | 7.5 三  | Word Vector Representations:word2vec     | Word2Vec词向量表示    | [纪焘](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Lecture2) |
 |     Lecture3      | 7.8 六  | Advanced Word Vector Representations     | 高级词向量表示          | [杜雨沛](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Lecture3) |
 |     Lecture4      | 7.10 一 | Word Window Classification and Neural Networks | 词窗分类与神经网络        | [杜雨沛](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Lecture4) |
-|     Lecture5      | 7.12 三 | Backpropagation                          | 反向传播             |                   黄子寅                    |
+|     Lecture5      | 7.12 三 | Backpropagation                          | 反向传播             |                   [黄子寅](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Lecture5)                    |
 |     Lecture6      | 7.15 六 | Dependency Parsing                       | 依存句法分析           |                   姚岳坤                    |
 | **Assignment #1** | 7.15 六 |                                          |                  |                    纪焘                    |
 |   ~~Lecture7~~    |        | ~~Introduction to TensorFlow~~           | ~~介绍TensorFlow~~ |                                          |
