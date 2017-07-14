@@ -1,1 +1,1 @@
-Lecture5 Slides & (Highplot Slides & Paper)
+Lecture5 Slides & (Highplot Slides & [Paper](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/blob/master/Lecture5/A%20Primer%20on%20Neural%20Network%20Models.pdf))
