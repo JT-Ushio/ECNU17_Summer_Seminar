@@ -14,9 +14,7 @@ def normalizeRows(x):
     """
     ### YOUR CODE HERE
     # each rows length
-    denom = np.apply_along_axis(lambda x: np.sqrt(x.T.dot(x)), 1, x)
-    # normalizes
-    x /= denom[:, None]
+    x = x / np.sqrt(np.sum(x**2, axis=1)).reshape(x.shape[0], 1)
     ### END YOUR CODE
     return x
 
@@ -103,13 +101,12 @@ def negSamplingCostAndGradient(predicted, target, outputVectors, dataset,
     grad[target] = predicted * (z - 1.0)
     gradPred = outputVectors[target] * (z - 1.0)
     # gradient for uk
-    for k in xrange(K):
-        samp = dataset.sampleTokenIdx()
-        z = sigmoid(np.dot(outputVectors[samp], predicted))
+    for k in indices[1:]:
+        z = sigmoid(np.dot(-outputVectors[k], predicted))
         # sigmoid(-x) = 1 - sigmoid(x)
-        cost -= np.log(1.0 - z)
-        grad[samp] += predicted * z
-        gradPred += outputVectors[samp] * z
+        cost -= np.log(z)
+        grad[k] -= predicted * (z - 1.0)
+        gradPred -= outputVectors[k] * (z - 1.0)
     ### END YOUR CODE
     return cost, gradPred, grad
 
