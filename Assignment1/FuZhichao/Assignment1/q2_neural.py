@@ -47,15 +47,15 @@ def forward_backward_prop(data, labels, params, dimensions):
     ### END YOUR CODE
 
     ### YOUR CODE HERE: backward propagation
-    grad_a2 = ( a2 - labels ) / N
+    grad_a2 = ( a2 - labels ) 
 
-    gradW2 = np.dot( a1.T, grad_a2 )
-    gradb2 = np.sum( grad_a2, axis=0, keepdims=True )
+    gradW2 = np.dot( a1.T, grad_a2 ) * (1.0/N)
+    gradb2 = np.sum( grad_a2, axis=0, keepdims=True ) * (1.0/N)
 
     grad_a1 = np.dot( grad_a2, W2.T ) * sigmoid_grad(a1)
 
-    gradW1 = np.dot( data.T, grad_a1 )
-    gradb1 = np.sum( grad_a1, axis=0, keepdims=True )
+    gradW1 = np.dot( data.T, grad_a1 ) * (1.0/N)
+    gradb1 = np.sum( grad_a1, axis=0, keepdims=True ) * (1.0/N)
 
     #raise NotImplementedError
     ### END YOUR CODE
