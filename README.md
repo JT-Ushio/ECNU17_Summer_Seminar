@@ -52,7 +52,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 |     Lecture11     | 7.22 六 | Neural Machine Translation and Models with Attention | NMT与注意力模型        | [黄子寅](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Lecture11) |
 |     Lecture12     | 7.24 一 | Gated recurrent units and further topics in NMT | GRU与NMT进阶        | [黄子寅](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Lecture12) |
 |     Lecture13     | 7.26 三 | End-to-end models for Speech Processing  | 端到端语音处理          | [姚岳坤](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Lecture13) |
-|     Lecture14     | 7.29 六 | Convolutional Neural Networks            | CNN              |                    郑淇                    |
+|     Lecture14     | 7.29 六 | Convolutional Neural Networks            | CNN              | [郑淇](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Lecture14) |
 | **Assignment #2** | 7.29 六 |                                          |                  | [纪焘](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Assignment2) |
 |     Lecture15     | 7.31 一 | Tree Recursive Neural Networks and Constituency Parsing | 树RNN与短语句法分析      |                    钟鸣                    |
 |     Lecture16     | 8.2 三  | Coreference Resolution                   | 共指消解             |                   杜雨沛                    |
