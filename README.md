@@ -56,7 +56,7 @@ ECNU NLP group learns CS224n in the form of seminars in the 2017 summer.
 | **Assignment #2** | 7.29 六 |                                          |                  | [纪焘](https://github.com/JT-Ushio/ECNU17_Summer_Seminar/tree/master/Assignment2) |
 |     Lecture15     | 7.31 一 | Tree Recursive Neural Networks and Constituency Parsing | 树RNN与短语句法分析      |                    钟鸣                    |
 |     Lecture16     | 8.2 三  | Coreference Resolution                   | 共指消解             |                   杜雨沛                    |
-|     Lecture17     | 8.5 六  | Dynamic Neural Networks for Question Answering | 动态神经网络QA         |                   黄子寅                    |
+|     Lecture17     | 8.6 日  | Dynamic Neural Networks for Question Answering | 动态神经网络QA         |                    钟鸣                    |
 |     Lecture18     | 8.7 一  | Issues in NLP and Possible Architectures for NLP | NLP中的问题与可能的解决框架  |                    韦阳                    |
 |     Lecture19     | 8.9 三  | Tackling the Limits of Deep Learning for NLP | 聚焦深度学习在NLP上的局限性  |                    郑淇                    |
 | **Assignment #3** | 8.9 三  |                                          |                  |                    纪焘                    |
